@@ -1,0 +1,10 @@
+#--------------------------- scraping-------------------------------------------#
+scraping:
+    price: 700.00
+    keyword: https://www.amazon.it/ASUS-GeForce-grafica-DisplayPort-DUAL-RTX3070-8G/dp/B08KHFZN9P
+    price: 3070
+#--------------------------- scheduling ---------------------------------------------#
+scheduling:
+    repeat: 1000000
+    timeout: 10800000
+    delay: 3000
