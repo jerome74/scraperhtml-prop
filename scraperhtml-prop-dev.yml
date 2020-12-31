@@ -14,4 +14,3 @@ telegram:
     urlstring: https://api.telegram.org/bot%s/sendMessage?chat_id=%s&text=%s
     apitoken: 1411635735:AAE2x8idSqoFl2-w1EhU5KutXlpgw2j_89E
     chatid: 975240670
-    username: @Jerome1905
