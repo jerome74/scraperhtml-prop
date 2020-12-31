@@ -1,9 +1,9 @@
 #--------------------------- scraping--------------------------------------------#
 scraping:
-    price: 700.00
-    link: https://www.amazon.it/ASUS-GeForce-grafica-DisplayPort-DUAL-RTX3070-8G/dp/B08KHFZN9P
+    price: 530.00
+    link: https://www.amazon.it/dp/B0815XFSGK
     checkoutlink: http://localhost:8082/scraper/notify
-    keyword: 3070
+    keyword: 5800
 #--------------------------- scheduling -----------------------------------------#
 scheduling:
     repeat: 1000000
