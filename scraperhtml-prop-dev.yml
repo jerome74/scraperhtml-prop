@@ -1,11 +1,16 @@
-#--------------------------- scraping-------------------------------------------#
+#--------------------------- scraping--------------------------------------------#
 scraping:
     price: 700.00
     link: https://www.amazon.it/ASUS-GeForce-grafica-DisplayPort-DUAL-RTX3070-8G/dp/B08KHFZN9P
     checkoutlink: http://localhost:8082/scraper/notify
     keyword: 3070
-#--------------------------- scheduling ---------------------------------------------#
+#--------------------------- scheduling -----------------------------------------#
 scheduling:
     repeat: 1000000
     timeout: 10800000
     delay: 3000
+#--------------------------- telegram -------------------------------------------#
+telegram:
+    urlstring: https://api.telegram.org/bot%s/sendMessage?chat_id=%s&text=%s
+    apitoken: 1411635735:AAE2x8idSqoFl2-w1EhU5KutXlpgw2j_89E
+    chatid: 975240670
