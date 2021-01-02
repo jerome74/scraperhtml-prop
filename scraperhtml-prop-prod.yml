@@ -1,9 +1,7 @@
 #--------------------------- scraping--------------------------------------------#
 scraping:
-    price: 530.00
+    parameters: 3080=700.00,3070=600.00,3090=800.00
     link: https://www.amazon.it/dp/B0815XFSGK
-    checkoutlink: http://localhost:8082/scraper/notify
-    keyword: 5800
 #--------------------------- scheduling -----------------------------------------#
 scheduling:
     repeat: 1000000
