@@ -10,5 +10,5 @@ scheduling:
 #--------------------------- telegram -------------------------------------------#
 telegram:
     urlstring: https://api.telegram.org/bot%s/sendMessage?chat_id=%s&text=%s
-    apitoken: 1484517912:AAF886YmANattt8WolnnHJM-08BiNi0RKC4
-    chatid: -433602999
+    apitoken: 1411635735:AAE2x8idSqoFl2-w1EhU5KutXlpgw2j_89E
+    chatid: 975240670
