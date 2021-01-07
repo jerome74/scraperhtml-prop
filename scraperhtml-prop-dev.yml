@@ -6,7 +6,7 @@ scraping:
 scheduling:
     repeat: 1000000
     timeout: 10800000
-    delay: 3000
+    delay: 120000
 #--------------------------- telegram -------------------------------------------#
 telegram:
     urlstring: https://api.telegram.org/bot%s/sendMessage?chat_id=%s&text=%s
